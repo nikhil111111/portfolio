@@ -88,24 +88,24 @@ const projects = [
         title: "Online Web Compiler",
         description: "A Comprehensive Online Web Compiler to write,Save,Preview there code in there browser.",
         image: "/compiler.png",
-        github: "https://github.com/yourusername/project1",
-        live: "https://project1.com",
+        github: "https://github.com/nikhil111111/onlineWDcompiler",
+        live: "https://frontendcompiler.vercel.app/",
         technologies: ["React", "Node.js", "MongoDB", "Express.js"]
     },
     {
         title: "E-Commerce Platform",
         description: "A full-stack e-commerce platform with payment integration and admin dashboard.",
         image: "/ecommerce.jpg",
-        github: "https://github.com/yourusername/project1",
-        live: "https://project1.com",
+        github: "https://github.com/nikhil111111/ecommerce",
+        live: "https://github.com/nikhil111111/ecommerce",
         technologies: ["React", "Node.js", "MongoDB", " RazorPay"]
     },
     {
         title: "AppointEase",
         description: "A full-stack Appointment management platform  and admin dashboard.",
         image: "/doctor.png",
-        github: "https://github.com/yourusername/project1",
-        live: "https://project1.com",
+        github: "https://github.com/nikhil111111/doctor",
+        live: "https://github.com/nikhil111111/doctor",
         technologies: ["React", "Node.js", "MongoDB", "Express.js"]
     },
     // Add more projects...
